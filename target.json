@@ -1,0 +1,254 @@
+[
+    {
+        "operator": "bolt",
+        "country": "us",
+        "city": "portland",
+        "url": "https://www.bolt.miami/bolt2/ptl/gbfs/en/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "bolt",
+        "country": "us",
+        "city": "miami",
+        "url": "https://www.bolt.miami/bolt2/mia/gbfs/en/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "bolt",
+        "country": "us",
+        "city": "durham",
+        "url": "https://www.bolt.miami/bolt2/dur/gbfs/en/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "flamingo",
+        "country": "nz",
+        "city": "wellington",
+        "url": "https://api.flamingoscooters.com/gbfs/wellington/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "flamingo",
+        "country": "nz",
+        "city": "christchurch",
+        "url": "https://api.flamingoscooters.com/gbfs/christchurch/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "flamingo",
+        "country": "nz",
+        "city": "waimakariri",
+        "url": "https://api.flamingoscooters.com/gbfs/Waimakariri/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "flamingo",
+        "country": "nz",
+        "city": "palmerston",
+        "url": "https://api.flamingoscooters.com/gbfs/palmerston-north/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "helbiz",
+        "country": "us",
+        "city": "jacksonville",
+        "url": "https://api.helbiz.com/admin/reporting/jacksonville/gbfs/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "helbiz",
+        "country": "us",
+        "city": "atlanta",
+        "url": "https://api.helbiz.com/admin/reporting/atlanta/gbfs/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "helbiz",
+        "country": "us",
+        "city": "oklahoma",
+        "url": "https://api.helbiz.com/admin/reporting/oklahoma/gbfs/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "helbiz",
+        "country": "ca",
+        "city": "kelowna",
+        "url": "https://api.helbiz.com/admin/reporting/kelowna/gbfs/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "helbiz",
+        "country": "ca",
+        "city": "waterloo",
+        "url": "https://api.helbiz.com/admin/reporting/waterloo/gbfs/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "helbiz",
+        "country": "it",
+        "city": "latina",
+        "url": "https://api.helbiz.com/admin/reporting/latina/gbfs/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "helbiz",
+        "country": "us",
+        "city": "washington",
+        "url": "https://api.helbiz.com/admin/reporting/washington/gbfs/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "helbiz",
+        "country": "us",
+        "city": "richmond",
+        "url": "https://api.helbiz.com/admin/reporting/richmond/gbfs/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "helbiz",
+        "country": "eg",
+        "city": "alexandria",
+        "url": "https://api.helbiz.com/admin/reporting/alexandria/gbfs/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "helbiz",
+        "country": "it",
+        "city": "pisa",
+        "url": "https://api.helbiz.com/admin/reporting/pisa/gbfs/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "helbiz",
+        "country": "it",
+        "city": "modena",
+        "url": "https://api.helbiz.com/admin/reporting/modena/gbfs/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "helbiz",
+        "country": "it",
+        "city": "napoli",
+        "url": "https://api.helbiz.com/admin/reporting/napoli/gbfs/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "helbiz",
+        "country": "it",
+        "city": "parma",
+        "url": "https://api.helbiz.com/admin/reporting/parma/gbfs/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "helbiz",
+        "country": "us",
+        "city": "miami",
+        "url": "https://api.helbiz.com/admin/reporting/miami/gbfs/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "helbiz",
+        "country": "it",
+        "city": "rome",
+        "url": "https://api.helbiz.com/admin/reporting/rome/gbfs/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "helbiz",
+        "country": "it",
+        "city": "milano",
+        "url": "https://api.helbiz.com/admin/reporting/milano1/gbfs/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "helbiz",
+        "country": "it",
+        "city": "bari",
+        "url": "https://api.helbiz.com/admin/reporting/bari/gbfs/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "helbiz",
+        "country": "it",
+        "city": "torino",
+        "url": "https://api.helbiz.com/admin/reporting/torino/gbfs/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "helbiz",
+        "country": "it",
+        "city": "verona",
+        "url": "https://api.helbiz.com/admin/reporting/verona/gbfs/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "helbiz",
+        "country": "it",
+        "city": "pescara",
+        "url": "https://api.helbiz.com/admin/reporting/pescara/gbfs/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "helbiz",
+        "country": "it",
+        "city": "cesena",
+        "url": "https://api.helbiz.com/admin/reporting/cesena/gbfs/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "razor",
+        "country": "us",
+        "city": "washington",
+        "url": "https://razorapi.net/api/v1/gbfs/Washington%20DC/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "razor",
+        "country": "us",
+        "city": "tempe",
+        "url": "http://razorapi.net/api/v1/gbfs/Tempe/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "razor",
+        "country": "us",
+        "city": "tucson",
+        "url": "http://razorapi.net/api/v1/gbfs/Tucson/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "razor",
+        "country": "us",
+        "city": "tacoma",
+        "url": "http://razorapi.net/api/v1/gbfs/Tacoma/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "razor",
+        "country": "us",
+        "city": "sacramento",
+        "url": "http://razorapi.net/api/v1/gbfs/Sacramento/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "razor",
+        "country": "us",
+        "city": "orlando",
+        "url": "http://razorapi.net/api/v1/gbfs/Orlando/free_bike_status.json",
+        "interval": null
+    },
+    {
+        "operator": "bird",
+        "country": "ca",
+        "city": "calgary",
+        "url": "https://mds.bird.co/gbfs/platform-partner/birdcanada/calgary/free_bike_status.json",
+        "interval": 115
+    },
+    {
+        "operator": "lime",
+        "country": "fr",
+        "city": "marseille",
+        "url": "https://data.lime.bike/api/partners/v2/gbfs/marseille/free_bike_status.json",
+        "interval": null
+    }
+]
